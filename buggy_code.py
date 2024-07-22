@@ -1,7 +1,7 @@
 def calculate_sum(numbers);
     # TODO: Fix any potential bugs in this code
     total = 0
-    for num in numbers:
+    for num in numbers;
         total += num
     print("The sum of the list is: " + str(total))
 
